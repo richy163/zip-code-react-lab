@@ -1,0 +1,23 @@
+.App-header {
+	background-color: #222;
+	padding: 20px;
+	color: white;
+	text-align: center;
+}
+body {
+	text-align: center;
+}
+
+label {
+	font-weight: bold;
+}
+.lable {
+	display: inline-block;
+	font-weight: bold;
+}
+.input-field {
+	padding-top: 20px;
+}
+.locItem {
+	list-style: none;
+}
